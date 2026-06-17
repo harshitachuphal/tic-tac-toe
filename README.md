@@ -35,7 +35,7 @@ tic-tac-toe/
 
 ## 📸 Screenshot
 
-(Add a screenshot of your game here)
+![Tic-Tac-Toe Screenshot](game.png)
 
 ## 👩‍💻 Author
 
